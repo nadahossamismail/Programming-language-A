@@ -1,3 +1,3 @@
 # Programming-language-A
-Programming language A course on Coursera 
+Programming language A  
 https://www.coursera.org/learn/programming-languages/home/welcome
